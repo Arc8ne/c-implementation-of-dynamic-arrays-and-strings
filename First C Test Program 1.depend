@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1654327288 source:c:\c++ programs\first c test program 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"StringLib.h"
+	"DynamicIntArrayLib.h"
+
+1654326583 source:c:\c++ programs\first c test program 1\stringlib.c
+
+1654327008 source:c:\c++ programs\first c test program 1\dynamicintarraylib.c
+
+1654326897 c:\c++ programs\first c test program 1\stringlib.h
+	<stdio.h>
+	<stdlib.h>
+
+1654327261 c:\c++ programs\first c test program 1\dynamicintarraylib.h
+	<stdio.h>
+	<stdlib.h>
+
